@@ -1,4 +1,4 @@
-lessonsHi! 👋
+lessonslessonsHi! 👋
 
 You've opened the IDE Sandbox. 🎉
 
